@@ -1,0 +1,21 @@
+body {
+	background-color: lightyellow;
+}
+
+.friends-img {
+	width: 100%;
+	height: 100%;
+}
+
+#age-submit {
+	color: orange;
+}
+
+h1 {
+	font-family: 'Patua One', cursive;
+}
+
+#answer {
+	font-size: 50px;
+	font-family: 'Raleway', sans-serif;
+}
